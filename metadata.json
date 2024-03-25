@@ -1,6 +1,6 @@
 {
-  "name": "SolCopier",
-  "symbol": "SC",
-  "description": "SolCopier is a cutting-edge Solana trade copier platform that enables users to automatically replicate the trading activities of top-tier traders onto their own accounts, maximizing their chances of success in the fast-paced world of cryptocurrency trading. With real-time syncing and advanced security measures in place, SolCopier empowers users to mirror the strategies of expert traders without the need for manual intervention, ultimately simplifying the trading process and enhancing potential profits.",
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStuXg6KyKG57o0MY7TDRjzikepjLDidVvdKA&usqp=CAU"
+  "name": "SolMarket",
+  "symbol": "SM",
+  "description": "SolMarket is a cutting-edge marketplace platform built on the Solana blockchain, offering users a secure and efficient way to buy and sell goods and services using cryptocurrency. With low transaction fees and lightning-fast transaction speeds, SolMarket is revolutionizing the world of online trading.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png"
 }
